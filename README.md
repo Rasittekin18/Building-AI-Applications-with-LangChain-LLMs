@@ -5,7 +5,6 @@
 [![Chainlit](https://img.shields.io/badge/UI-Chainlit-FF4B4B.svg)](https://chainlit.io/)
 [![Ollama](https://img.shields.io/badge/Local_LLM-Ollama-black.svg)](https://ollama.ai/)
 [![Docker](https://img.shields.io/badge/Container-Docker-2496ED.svg)](https://www.docker.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Bu depo; **LangChain v0.3 (LCEL)**, **Chainlit**, **RAG**, **Neo4j**, **ChromaDB**, **Ollama** ve **Docker** kullanarak modern LLM uygulamaları geliştirmeye yönelik uçtan uca örnekler içerir.
 
