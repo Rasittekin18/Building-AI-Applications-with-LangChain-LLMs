@@ -209,6 +209,3 @@ python local_chain.py
 
 ---
 
-## 📄 Lisans
-
-Bu proje **MIT Lisansı** kapsamında lisanslanmıştır.
