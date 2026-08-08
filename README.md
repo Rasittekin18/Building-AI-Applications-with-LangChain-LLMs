@@ -207,13 +207,6 @@ python local_chain.py
 
 ---
 
-## 👨‍💻 Yazar ve İletişim
-
-**Raşit Tekin**  
-AI & Data Science Engineer | Electronics Engineer
-
-- GitHub: [@Rasittekin18](https://github.com/Rasittekin18)
-- Website: [rasittekin.com](https://rasittekin.com)
 
 ---
 
